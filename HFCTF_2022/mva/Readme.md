@@ -14,7 +14,7 @@ char var3,var4,var5
 
 功能7:var5 ^ var4
 
-功能8:
+功能8:修改指向存放指令buff的offset
 
 功能9：-210 + var230(qword) = (int16)var23e word
 
